@@ -1,11 +1,3 @@
-/*
- * File:   pwm.c
- * Author: Michael Ding
- *
- * Created on July 14, 2016, 10:25 AM
- */
-
-
 #include <xc.h>
 #include "main.h"
 #include "configBits.h"
